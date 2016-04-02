@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include qf_erpnext_customizations *.css
+recursive-include qf_erpnext_customizations *.csv
+recursive-include qf_erpnext_customizations *.html
+recursive-include qf_erpnext_customizations *.ico
+recursive-include qf_erpnext_customizations *.js
+recursive-include qf_erpnext_customizations *.json
+recursive-include qf_erpnext_customizations *.md
+recursive-include qf_erpnext_customizations *.png
+recursive-include qf_erpnext_customizations *.py
+recursive-include qf_erpnext_customizations *.svg
+recursive-include qf_erpnext_customizations *.txt
+recursive-exclude qf_erpnext_customizations *.pyc
