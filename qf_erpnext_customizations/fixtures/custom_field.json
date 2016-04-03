@@ -19,7 +19,7 @@
   "insert_after": "naming_series", 
   "label": "Customer Reference", 
   "modified": "2016-03-30 15:10:13.608834", 
-  "name": "Customer-partner_reference", 
+  "name": "Customer-customer_reference", 
   "no_copy": 0, 
   "options": null, 
   "permlevel": 0, 
