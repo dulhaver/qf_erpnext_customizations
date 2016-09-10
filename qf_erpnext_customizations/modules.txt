@@ -1,1 +1,1 @@
-QF ERPNext Customizations
+Customer Number (free definable in addition to automated number from naming series) for ERPNext
