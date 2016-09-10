@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-app_name = "qf_erpnext_customizations"
-app_title = "QF ERPNext Customizations"
+app_name = "erpnext_customer_numbner"
+app_title = "Customer Number"
 app_publisher = "vrms"
-app_description = "erpnext customizations"
+app_description = "ads field Customer Number to the Customer Form in ERPNext"
 app_icon = "octicon octicon-file-directory"
 app_color = "orange"
 app_email = "vrms@netcologne.de"
-app_version = "0.0.1"
+app_version = "0.0.2"
 app_license = "MIT"
 
 # Includes in <head>
