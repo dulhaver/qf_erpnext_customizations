@@ -5,10 +5,10 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "QF ERPNext Customizations",
+			"module_name": "ERPNext Customer Number",
 			"color": "orange",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
-			"label": _("QF ERPNext Customizations")
+			"label": _("Customer Number")
 		}
 	]
